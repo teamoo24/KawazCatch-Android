@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\project\KawazCatch\MyCppGame\cocos2d\cocos\platform\android\libcocos2dx\build\intermediates\bundles\default\libs\httpclient-4.4.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="becf40a1a480be2a5ccb46529dce490f31b516d5">
+        <dex dex="C:\project\KawazCatch\MyCppGame\proj.android-studio\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpclient-4.4.1.1_c65e2730d0f9d32ae428dd3e3a121c25f57039a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\KawazCatch\MyCppGame\proj.android-studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79dfde19b6ef7fa67b83b99837c575ef2e5a20a0">
+        <dex dex="C:\project\KawazCatch\MyCppGame\proj.android-studio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c9a62a03791856ff27ce565baf09e50298c7d9f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\KawazCatch\MyCppGame\proj.android-studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\project\KawazCatch\MyCppGame\proj.android-studio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_29225986e6fad3b1a8d30efc1c63608eb5e7e636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\KawazCatch\MyCppGame\cocos2d\cocos\platform\android\libcocos2dx\build\intermediates\bundles\default\libs\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="769f000c2940ab43578cd56ffcc81340aad0b182">
+        <dex dex="C:\project\KawazCatch\MyCppGame\proj.android-studio\app\build\intermediates\transforms\dex\debug\folders\1000\8\android-async-http-1.4.9_e12ec113616ee7e0a18d5d4d96f3358797040eb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project\KawazCatch\MyCppGame\cocos2d\cocos\platform\android\libcocos2dx\build\intermediates\bundles\default\libs\com.android.vending.expansion.zipfile.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3785cbb057b995cb42463158b1a798fcc78bb3b0">
+        <dex dex="C:\project\KawazCatch\MyCppGame\proj.android-studio\app\build\intermediates\transforms\dex\debug\folders\1000\8\com.android.vending.expansion.zipfile_0f2f74a6d01c6338a07f0fccecea3d837c7204f7\classes.dex" />
+    </item>
+
+</items>
